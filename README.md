@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @gitshubhamsharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gitshubhamsharma/gitshubhamsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Machine Learning and Hyper-Automation
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate on Machine Learning and Automation Projects
+- 📫 How to reach me - shbm.sharma407@gmail.com (9540283031)
